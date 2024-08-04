@@ -1,0 +1,26 @@
+VersionCode: 3100
+VersionName: 6.0.0
+ColorOS Version: UNKNOW
+Mobile MODEL: CPH2185
+Android Version: 10
+Android API: 29
+getNetworkTypeName: mobile
+WindowWidth And WindowHeight: 720*1456
+WindowDensity:2.0
+System's currenTimeMillis: 1722699951772
+TimeZone: libcore.util.ZoneInfo[id="Asia/Bangkok",mRawOffset=25200000,mEarliestRawOffset=24124000,mUseDst=false,mDstSavings=0,transitions=1]
+
+2024-08-03 22_45_42 323 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:false
+2024-08-03 22_47_54 966 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:true
+2024-08-04 05_51_57 604 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:false
+2024-08-04 05_55_09 252 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:true
+2024-08-04 05_56_25 960 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:false
+2024-08-04 05_56_27 184 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:true
+2024-08-04 06_02_12 514 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:false
+2024-08-04 06_02_13 611 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:true
+2024-08-04 06_02_13 851 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:false
+2024-08-04 06_02_14 999 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:true
+2024-08-04 06_32_41 340 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:false
+2024-08-04 06_32_51 307 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:true
+2024-08-04 06_33_08 030 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:false
+2024-08-04 06_33_10 194 / SIMS_OppoSimInfoControl : setVolteCallStatus: user change isChecked:true
